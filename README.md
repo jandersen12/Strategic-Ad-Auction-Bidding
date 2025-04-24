@@ -1,4 +1,4 @@
-# Strategic-Ad-Auction-Bidding
+# Strategic Ad Auction Bidding
 
 ### Project Overview
 
